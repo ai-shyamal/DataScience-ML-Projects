@@ -4,10 +4,10 @@ This repository showcases my Data Science and Machine Learning projects built us
 
 ## 🧩 Projects
 
-### 1. [Customer Lifetime Value Forecasting](1-clv-forecasting-segmentation.ipynb/)
+### 1. [Customer Lifetime Value Forecasting And Segmentation](1-clv-forecasting-segmentation.ipynb/)
 Predicting future spending and segmenting customers using Neural Networks and Regression models to identify high-value customers for targeted marketing strategies.
 
-### 2. [Fraud Risk Modeling](fraud-risk-modeling/)
+### 2. [Transact Guard : Fraud Risk Modeling using ml](fraud-risk-modeling/)
 Detecting fraudulent transactions on a highly imbalanced dataset using Logistic Regression, Random Forest, XGBoost, and Neural Networks with SMOTE and class-weight balancing.
 
 ### 3. [Movie Recommendation System (Collaborative Filtering)](movie-recommendation-system/)
