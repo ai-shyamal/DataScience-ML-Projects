@@ -4,7 +4,7 @@ This repository showcases my Data Science and Machine Learning projects built us
 
 ## 🧩 Projects
 
-### 1. [Customer Lifetime Value Forecasting](customer-lifetime-value-forecasting/)
+### 1. [Customer Lifetime Value Forecasting](1-clv-forecasting-segmentation.ipynb/)
 Predicting future spending and segmenting customers using Neural Networks and Regression models to identify high-value customers for targeted marketing strategies.
 
 ### 2. [Fraud Risk Modeling](fraud-risk-modeling/)
