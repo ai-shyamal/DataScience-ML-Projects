@@ -10,7 +10,7 @@ Predicting future spending and segmenting customers using Neural Networks and Re
 ### 2. [Transact Guard : Fraud Risk Modeling using ML](2.%20transact-guard-fraud-risk-modeling%20using%20ml.ipynb/)
 Detecting fraudulent transactions on a highly imbalanced dataset using Logistic Regression, Random Forest, XGBoost, and Neural Networks with SMOTE and class-weight balancing.
 
-### 3. [Movie Recommendation System (Collaborative Filtering)](movie-recommendation-system/)
+### 3. [Movie Recommendation System (Collaborative Filtering)](3.%20movie-recommendation-system-collaborative-filtering.ipynb/)
 Building a collaborative filtering–based recommender system to predict movie ratings and provide personalized recommendations using user–item interaction data.
 
 ---
